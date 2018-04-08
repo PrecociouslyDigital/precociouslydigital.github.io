@@ -1,37 +1,99 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/PrecociouslyDigital/precociouslydigital.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# BENJAMIN YIN 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> Phone: (857)-210-3339  
+> Email: Benjamin.Yin@outlook.com  
+> Address:  
+> 13039 SE 47th Pl  
+> Bellevue, WA, 98006  
+> Github: [https://github.com/precociouslydigital](https:/github.com/precociouslydigital)   
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## SKILLS
 
-# Header 1
-## Header 2
-### Header 3
+### Very Skilled With
+- Python
+  - Data-processing
+    - Evolutionary Algorithms with DEAP
+    - Web Scraping with BeautifulSoup
+  -  Microservices
+      - Flask
+      - Django
+- Javascript
+  - Front-End Development
+      - Jquery
+      - WebGL
+      - React/Redux
+   - Back-End Development
+      - Node.js
+   - Extensive Typescript 
+- HTML5/CSS
+- Java
+   - Robotics/Control Systems 
+   - Familiarity with Scala
+- C#
+   - Unity Game Development 
+   - WinForms Application Development
+- Continuous Integration, Unit Testing Frameworks, and other Developer Goodies
+- Working with Teams of Developers
+  - Writing readable, maintanable code
+  - Cleaning up and refactoring messy codebases
+### Some Experience With
+- Scala
+- Ruby
+- SQL/Databases
+- Android Development
+- AWS Services
+- Unix System Administration
+- Docker
 
-- Bulleted
-- List
+## EXPERIENCE 	 
 
-1. Numbered
-2. List
+#### Web Designer
+##### Feburary-May 2018
+Designed and built Rhinoclimbs, a website documenting the climbs, essays and stories of John Roper, an avid mountaineer. Communicated extensively with the non-technically oriented client to detail the limitations and best-practices of web technologies.
+#### Teacher at Eastside Education
+##### November-May 2018
+Worked as a math teacher at Eastside Education. Worked extensively with elementary-age children, teaching concepts such as fractions, decimals, and percentages.
+#### Intern 
+##### July 2016-August 2017
+Paid Intern at the UW’s Center for Game Science, working full-time with a team of talented staff and grad students on their newest project, Mozak, an attempt to crowdsource the task of tracing neurons from scans of human and animal brains to further the research of the Allen Brain Institute. (http://www.mozak.science/). Gained extensive experience throughout the development stack, from the browser to databases.
+#### Contractor for Nuistar Technology LTD.
+##### June-September 2017, March-May 2018
+Created a DRM Solution for Nuistar, a Chinese company looking to enforce the licences of their educational videogames. Designed a cryptographic signing scheme to verify licences, and built the server portion in Python.
 
-**Bold** and _Italic_ and `Code` text
+#### Teaching Assistant
+##### February-June 2015 
+Was an assistant teacher for an Intermediate Java Course at NorthWest Chinese School. 
+Graded homework and tests, assisted students with coursework.
+#### Stanford’s Pre-Collegiate Summer Institute, Student
+##### June-July 2015
+Took Computer Simulations and Interactive Media, a course centered around studying games, especially video games, and the principles upon which they are designed.
+##### Saints Robotics FRC, Interlake HS, Systems Architect
+#### September 2015- now
+Responsible for managing the computer and electronics teams in Saints Robotics. 
+Responsible for creating the code for the robot, or any other ancillary projects the team embarks on.
+#### UW Math Circle, Student
+###### September 2013- June 2015
+Studied Olympiad-style problems, with a focus on set, group, and graph theory.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## PROJECTS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PrecociouslyDigital/precociouslydigital.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### CodeDay 
+##### February 2015
+Won Best Game as part of a team at Codeday Winter 2015 with a multiplayer android game, Elemental Battle. (https://github.com/anubiann00b/ElementalBattle) 
+#### FRC-Dozer
+##### August 2016-Present: 
+Led the design of an open-source framework for writing async functions for robots designed to compete in the First Robotics Competition (https://github.com/FRC-Dozer/Dozer)
+#### SneakyRun
+##### June-July 2015
+Built SneakyRun, a prototype for a 2D stealth game. (https://github.com/PrecociouslyDigital/SneakyRun/) 
+#### Extended Essay
+##### June 2015-November 2016
+Created an evolutionary algorithm for my Extended Essay, an International Baccalaureate research project: (https://github.com/PrecociouslyDigital/LiarLiarPantsOnFire/) 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
