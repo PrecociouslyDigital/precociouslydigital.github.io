@@ -1,15 +1,4 @@
 
-# BENJAMIN YIN 
-
-> Phone: (857)-210-3339  
-> Email: Benjamin.Yin@outlook.com  
-> Address:  
-> 13039 SE 47th Pl  
-> Bellevue, WA, 98006  
-> Github: [https://github.com/precociouslydigital](https:/github.com/precociouslydigital)   
-
-
-
 ## SKILLS
 
 ### Very Skilled With
